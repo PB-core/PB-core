@@ -1,0 +1,6 @@
+{
+  "apiPath":"https://service.pesayakobrand.com",
+  "h5Path":"https://app.pesayakobrand.com",
+  "delPath":"https://del.pesayakobrand.com"
+  "version":1
+}
