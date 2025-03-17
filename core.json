@@ -1,6 +1,6 @@
 {
-  "apiPath":"https://service.pesayakobrand.com",
-  "h5Path":"https://app.pesayakobrand.com",
-  "delPath":"https://del.pesayakobrand.com"
+  "apiPath":"https://service.myyako.com",
+  "h5Path":"https://app.myyako.com",
+  "delPath":"https://del.myyako.com"
   "version":1
 }
